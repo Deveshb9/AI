@@ -22,7 +22,7 @@ function setup() {
   createCanvas(400, 400);
   w = width / 3;
   h = height / 3;
-  bestMove(); // if you want the ai to go first
+  //bestMove(); // if you want the ai to go first
 }
 
 function draw() {
